@@ -1,0 +1,188 @@
+<section style="width:600px;margin:0 auto;padding:44px 0 64px;background:#111923;color:#111111;font-family:Arial,'PingFang SC','Microsoft YaHei',sans-serif;">
+    <section style="width:470px;margin:0 auto;background:#ffffff;padding:0;overflow:hidden;">
+
+      <section style="height:760px;margin:0;padding:0;position:relative;background:#ffffff;overflow:hidden;">
+        <img src="https://yesu25374-code.github.io/daniel-caesar-wechat-layout/assets/img-01.jpg" alt="手与影子白底卡片" style="display:block;position:absolute;left:38px;top:34px;width:394px;height:690px;margin:0;border:0;object-fit:cover;object-position:50% 44%;">
+        <section style="position:absolute;left:0;bottom:0;width:470px;height:44px;background:linear-gradient(to bottom,rgba(255,255,255,0),#ffffff 86%);"></section>
+      </section>
+
+      <section style="margin:0;padding:54px 36px 46px;background:#ffffff;border-top:1px solid #111111;">
+        <p style="margin:0 0 14px;color:#111111;font-size:12px;line-height:1.6;letter-spacing:4px;text-transform:uppercase;text-align:left;">Essay / Music / Memory</p>
+        <h1 style="margin:0;color:#111111;font-size:38px;line-height:1.22;font-weight:900;letter-spacing:0;text-align:left;">昨晚把那封信打开了</h1>
+        <p style="margin:16px 0 0;color:#37322e;font-size:14px;line-height:1.9;text-align:left;">献给课业繁忙的十七岁</p>
+      </section>
+
+      <section style="margin:0;padding:0 0 30px;background:#050505;border-top:1px solid #050505;">
+        <img src="https://yesu25374-code.github.io/daniel-caesar-wechat-layout/assets/img-02.jpg" alt="演出 choir" style="display:block;width:470px;height:auto;margin:0;border:0;">
+        <p style="margin:12px 32px 0;color:#d8d8d8;font-size:12px;line-height:1.8;text-align:left;">录音室和小桌会的演出 choir，由 Tiana Kruščić 担任 choir director。</p>
+      </section>
+
+      <section style="margin:0;padding:46px 42px 52px;background:#050505;border-top:1px solid #2b2b2b;">
+        <p style="margin:0 0 20px;color:#f2f2f2;font-size:15px;line-height:2.05;text-align:left;">昨晚 Daniel Caesar 的 Son of Spergy 亚巡第二场。我坐在新加坡室内体育馆的看台上。舞台上的灯光一层层亮起来。</p>
+        <p style="margin:0 0 20px;color:#f2f2f2;font-size:15px;line-height:2.05;text-align:left;">他站在台上，声音还是那么温吞、确凿。</p>
+        <p style="margin:0 0 20px;color:#f2f2f2;font-size:15px;line-height:2.05;text-align:left;">然后是机械地跟唱、录制，直到《Loose》的最后一个音结束。直到和朋友告别，直到坐了一个小时的红线穿过城市，直到去 7-Eleven 买了一盒速冻意面，直到躺在床上，看着黑黑的天花板。</p>
+        <p style="margin:34px 0 0;color:#ffffff;font-size:28px;line-height:1.36;font-weight:900;text-align:left;">一种盛大的无名把我裹住。</p>
+      </section>
+
+      <section style="margin:0;padding:0 0 32px;background:#050505;border-top:1px solid #2b2b2b;">
+        <img src="https://yesu25374-code.github.io/daniel-caesar-wechat-layout/assets/img-03.jpg" alt="Daniel Caesar 舞台侧脸" style="display:block;width:470px;height:auto;margin:0;border:0;">
+        <p style="margin:12px 32px 0;color:#d8d8d8;font-size:12px;line-height:1.8;text-align:left;">朋友圈配图：Jimi Hendrix - Daniel Caesar。</p>
+      </section>
+
+      <section style="margin:0;padding:46px 42px 52px;background:#050505;border-top:1px solid #2b2b2b;">
+        <p style="margin:0 0 20px;color:#f2f2f2;font-size:15px;line-height:2.05;text-align:left;">我发了条朋友圈，说献给课业繁忙的十七岁。倒不如说，是献给茫然无措的、十八岁以前的十七岁。</p>
+        <p style="margin:0 0 20px;color:#f2f2f2;font-size:15px;line-height:2.05;text-align:left;">2023 年夏天，他在香港 KITEC 开演的那晚，我被茫然撞得错过。那段日子像浸没在一颗泡泡里。十七，卡在两条线的罅隙里，一段漫无目的的游荡时间：在公园约会，偷跑去朋友家埋头大睡，在商圈按摩椅里插上耳机。总之，是把香港场错过了。</p>
+        <p style="margin:0;color:#f2f2f2;font-size:15px;line-height:2.05;text-align:left;">之后的之后，我看了太多演出，却一直挂着这份遗憾。</p>
+      </section>
+
+      <section style="margin:0;padding:58px 28px 56px;background:#f2ede8;border-top:1px solid #111111;text-align:center;position:relative;overflow:hidden;">
+        <img src="https://yesu25374-code.github.io/daniel-caesar-wechat-layout/assets/img-04.jpg" alt="Mixtape 淡影背景" style="display:block;position:absolute;left:-178px;bottom:-72px;width:438px;height:auto;margin:0;border:0;opacity:0.18;z-index:1;">
+        <p style="margin:0;color:#111111;font-size:84px;line-height:0.95;font-weight:900;letter-spacing:0;text-transform:uppercase;position:relative;z-index:2;">MIXTAPE</p>
+        <table role="presentation" cellspacing="0" cellpadding="0" style="width:100%;margin:28px 0 0;border-collapse:collapse;position:relative;z-index:2;">
+          <tr>
+            <td style="width:33.33%;font-size:11px;line-height:1.6;letter-spacing:4px;text-transform:uppercase;text-align:left;color:#111111;">Memory</td>
+            <td style="width:33.33%;font-size:11px;line-height:1.6;letter-spacing:4px;text-transform:uppercase;text-align:center;color:#111111;">Youth</td>
+            <td style="width:33.33%;font-size:11px;line-height:1.6;letter-spacing:4px;text-transform:uppercase;text-align:right;color:#111111;">Music</td>
+          </tr>
+        </table>
+      </section>
+
+      <section style="margin:0;padding:46px 42px 52px;background:#f2ede8;border-top:1px solid #111111;position:relative;overflow:hidden;">
+        <img src="https://yesu25374-code.github.io/daniel-caesar-wechat-layout/assets/img-05.jpg" alt="Mixtape 淡影背景" style="display:block;position:absolute;right:-214px;top:-58px;width:510px;height:auto;margin:0;border:0;opacity:0.17;z-index:1;">
+        <p style="margin:0 0 20px;color:#111111;font-size:15px;line-height:2.05;text-align:left;position:relative;z-index:2;">就在这次新加坡演唱会前几天，我玩完了《Mixtape》。或者叫《混音青春》，那款刚刚拿下 IGN 年度首个满分的叙事冒险游戏。</p>
+      </section>
+
+      <section style="margin:0;padding:0 0 32px;background:#f2ede8;border-top:0;">
+        <img src="https://yesu25374-code.github.io/daniel-caesar-wechat-layout/assets/img-06.jpg" alt="Mixtape 标题画面" style="display:block;width:470px;height:auto;margin:0;border:0;">
+        <p style="margin:12px 32px 0;color:#4e4a45;font-size:12px;line-height:1.8;text-align:left;">《Mixtape》标题画面。</p>
+      </section>
+
+      <section style="margin:0;padding:46px 42px 52px;background:#f2ede8;border-top:0;position:relative;overflow:hidden;">
+        <img src="https://yesu25374-code.github.io/daniel-caesar-wechat-layout/assets/img-07.jpg" alt="Mixtape 淡影背景" style="display:block;position:absolute;left:-190px;bottom:-78px;width:520px;height:auto;margin:0;border:0;opacity:0.17;z-index:1;">
+        <p style="margin:0;color:#111111;font-size:15px;line-height:2.05;text-align:left;position:relative;z-index:2;">故事很简单：少女 Stacey Rockford 即将离开北加州的小镇前往纽约追梦。临行前的最后一晚，她和两位最好的朋友一起奔赴一场告别派对。途中，一盘亲手制作的混音带把三个人拉进了一段段泛着胶片感的回忆：滑板、初吻、在购物车里逃避警察、深夜闯进废弃的主题公园。你会被音乐和画面拽着往前走，目睹那些“最后一次”。</p>
+      </section>
+
+      <section style="margin:0;padding:0 0 32px;background:#f2ede8;border-top:1px solid #111111;">
+        <img src="https://yesu25374-code.github.io/daniel-caesar-wechat-layout/assets/img-08.jpg" alt="Airwalker 场景" style="display:block;width:470px;height:auto;margin:0;border:0;">
+        <p style="margin:12px 32px 0;color:#4e4a45;font-size:12px;line-height:1.8;text-align:left;">《Airwalker》，像把整盘混音带一下子推开。</p>
+      </section>
+
+      <section style="margin:0;padding:0;background:#050505;border-top:1px solid #111111;position:relative;overflow:hidden;height:1280px;">
+        <section style="position:absolute;left:0;top:0;width:470px;height:612px;background:#f2ede8;z-index:1;"></section>
+        <img src="https://yesu25374-code.github.io/daniel-caesar-wechat-layout/assets/img-09.jpg" alt="秋日滑板正向淡影" style="display:block;position:absolute;right:-118px;top:22px;width:382px;height:216px;margin:0;border:0;object-fit:cover;object-position:52% 48%;opacity:0.14;z-index:2;">
+        <section style="position:absolute;left:0;right:0;top:72px;padding:0 58px;z-index:5;">
+          <p style="margin:0 0 34px;color:#111111;font-size:13px;line-height:1.9;text-align:left;">游戏的核心机制是：每一段回忆都被一首歌激活。Joy Division、The Cure、Smashing Pumpkins，那些脍炙人口的九十年代旋律不只是背景音乐，它们是记忆本身的索引。像钥匙一样，插进去，门就开了。</p>
+          <p style="margin:0 0 34px;color:#111111;font-size:13px;line-height:1.9;text-align:left;">我想，每个人心里大概都有这样一盘混音带。不是一盘真实存在的磁带，而是一份私人的、不成文的记忆：肆意张扬的青春记忆里，某几首歌永久地和某些人、某些地点、某些再也回不去的、如极地冰川般消逝的夏天绑在了一起。</p>
+          <p style="margin:0;color:#111111;font-size:14px;line-height:1.75;font-weight:900;text-align:left;">对我来说，Daniel Caesar 的音乐也是这样的存在。</p>
+        </section>
+        <img src="https://yesu25374-code.github.io/daniel-caesar-wechat-layout/assets/img-10.jpg" alt="秋日滑板竖图" style="display:block;position:absolute;left:0;top:470px;width:470px;height:810px;margin:0;border:0;object-fit:cover;object-position:50% 50%;z-index:2;">
+        <section style="position:absolute;left:0;top:390px;width:470px;height:390px;background:linear-gradient(to bottom,#f2ede8 0%,rgba(242,237,232,0.99) 24%,rgba(242,237,232,0.88) 44%,rgba(242,237,232,0.48) 70%,rgba(242,237,232,0) 100%);z-index:4;"></section>
+        <section style="position:absolute;left:0;right:0;bottom:0;padding:180px 28px 34px;background:linear-gradient(to bottom,rgba(5,5,5,0) 0%,rgba(5,5,5,0.18) 28%,rgba(5,5,5,0.62) 62%,#050505 100%);z-index:5;">
+          <p style="margin:0;color:#ffffff;font-size:11px;line-height:1.8;letter-spacing:2px;text-transform:uppercase;text-align:left;">《Mixtape》里被橙色树林卷进去的一幕。</p>
+        </section>
+      </section>
+
+      <section style="margin:0;padding:0 0 32px;background:#050505;border-top:1px solid #050505;">
+        <img src="https://yesu25374-code.github.io/daniel-caesar-wechat-layout/assets/img-11.jpg" alt="Who hurt you 路边广告牌" style="display:block;width:470px;height:auto;margin:0;border:0;">
+        <p style="margin:12px 32px 0;color:#d8d8d8;font-size:12px;line-height:1.8;text-align:left;">Follies 脱衣舞俱乐部附近的 billboard。歌曲灵感直接来自这里，也是 Daniel 在 Craigslist 广告中提到的地点。</p>
+      </section>
+
+      <section style="margin:0;padding:46px 42px 52px;background:#050505;border-top:1px solid #1f1f1f;">
+        <p style="margin:0 0 20px;color:#f2f2f2;font-size:15px;line-height:2.05;text-align:left;">第一次听《Who hurt you》的时候，是一个很随意的下午。</p>
+        <p style="margin:0;color:#f2f2f2;font-size:15px;line-height:2.05;text-align:left;">这首歌写的是 Daniel Caesar 在亚特兰大著名的 Follies 脱衣舞俱乐部遇到的一位戴金色假发的 “voluptuous beauty”。他称她为 Priscilla，并为她豪掷千金。之后弄丢了号码，又发了一则 Craigslist，也有了这首歌。从 <em>Freudian</em> 到 <em>Case Study 01</em>，也是我觉得他个人气质最鲜明的时期。于是，我开始迷恋上他音乐里的蓝色雾霭。</p>
+      </section>
+
+      <section style="margin:0;padding:0 0 32px;background:#050505;border-top:1px solid #1f1f1f;">
+        <img src="https://yesu25374-code.github.io/daniel-caesar-wechat-layout/assets/img-12.jpg" alt="Daniel Caesar 与摄影机" style="display:block;width:470px;height:auto;margin:0;border:0;">
+        <p style="margin:12px 32px 0;color:#d8d8d8;font-size:12px;line-height:1.8;text-align:left;">Daniel Caesar 与摄影机。</p>
+      </section>
+
+      <section style="margin:0;padding:46px 42px 52px;background:#050505;border-top:1px solid #1f1f1f;">
+        <p style="margin:0 0 20px;color:#f2f2f2;font-size:15px;line-height:2.05;text-align:left;">后来几年，他的歌成了我很多记忆的注脚。那段时光里有些人，有些地方，有些我当时以为会一直持续下去的事情。</p>
+        <p style="margin:0;color:#f2f2f2;font-size:15px;line-height:2.05;text-align:left;">所以，在回想 2023 年香港那场演出时，我没去成，就变成了一件不太对的事情。不是那种“错过了一场好演出”的遗憾，而是“错过了一次和过去某个版本的自己照面的机会”。</p>
+      </section>
+
+      <section style="margin:0;padding:0 0 32px;background:#050505;border-top:1px solid #1f1f1f;">
+        <img src="https://yesu25374-code.github.io/daniel-caesar-wechat-layout/assets/img-13.jpg" alt="追光下的舞台" style="display:block;width:470px;height:auto;margin:0;border:0;">
+        <p style="margin:12px 32px 0;color:#d8d8d8;font-size:12px;line-height:1.8;text-align:left;">新加坡的夜里，他唱起《Always》。</p>
+      </section>
+
+      <section style="margin:0;padding:46px 42px 52px;background:#050505;border-top:1px solid #1f1f1f;">
+        <p style="margin:0 0 20px;color:#f2f2f2;font-size:15px;line-height:2.05;text-align:left;">新加坡的夜里，他唱起《Always》，坐我后面的女生开始低声啜泣。</p>
+        <p style="margin:0 0 20px;color:#f2f2f2;font-size:15px;line-height:2.05;text-align:left;">我没有哭。只感到一种安静的、沉着的东西落在胸口。</p>
+        <p style="margin:0;color:#f2f2f2;font-size:15px;line-height:2.05;text-align:left;">我在那一刻明白，我并不是为了那场演出而来，而是为了证明那段时光真实，那些感受没有随风消散。它们被好好地保存在音乐的触媒里，等着你某天被动开启。</p>
+      </section>
+
+      <section style="margin:0;padding:0 0 32px;background:#f2ede8;border-top:1px solid #111111;">
+        <img src="https://yesu25374-code.github.io/daniel-caesar-wechat-layout/assets/img-14.jpg" alt="Blue Moon Lagoon" style="display:block;width:470px;height:auto;margin:0;border:0;">
+        <p style="margin:12px 32px 0;color:#4e4a45;font-size:12px;line-height:1.8;text-align:left;">Blue Moon Lagoon，三个人坐在湖岸边打水漂。</p>
+      </section>
+
+      <section style="margin:0;padding:46px 42px 52px;background:#f2ede8;border-top:1px solid #111111;">
+        <p style="margin:0 0 20px;color:#111111;font-size:15px;line-height:2.05;text-align:left;">在游戏的 Chapter 12，打水漂。三个人坐在 Blue Moon Lagoon 的湖岸，Slater 问 Stacey：你的计划是什么。Stacey 说了一大堆，纽约，音乐，梦想。然后 Slater 问：那你还会回蓝月湖吗。</p>
+        <p style="margin:0 0 20px;color:#111111;font-size:15px;line-height:2.05;text-align:left;">Stacey 说，不会。我肯定要撇清关系。</p>
+        <p style="margin:0 0 20px;color:#111111;font-size:15px;line-height:2.05;text-align:left;">我在这一幕前哑然，对着湖面瞄准了很久，石子最终还是没有投出去。</p>
+        <p style="margin:0;color:#111111;font-size:15px;line-height:2.05;text-align:left;">我高中的时候非常熟悉这种状态。答案是现成的，决绝的，但底下压着另一种东西，其实根本说不清是留恋还是恐惧。</p>
+      </section>
+
+      <section style="margin:0;padding:0 0 32px;background:#050505;border-top:1px solid #050505;">
+        <img src="https://yesu25374-code.github.io/daniel-caesar-wechat-layout/assets/img-15.jpg" alt="Mixtape 黑白画面" style="display:block;width:470px;height:auto;margin:0;border:0;">
+        <p style="margin:12px 32px 0;color:#d8d8d8;font-size:12px;line-height:1.8;text-align:left;">《Mixtape》里那些似曾相识的、带着青春滤镜的情绪碎片。</p>
+      </section>
+
+      <section style="margin:0;padding:46px 42px 28px;background:#050505;border-top:1px solid #1f1f1f;">
+        <p style="margin:0;color:#f2f2f2;font-size:15px;line-height:2.05;text-align:left;">《Mixtape》游戏里有句话，大意是：这个游戏复刻的不是 90 年代，而是一种“怀旧的感觉”。它讲述的不是你真正经历过的事，而是那些似曾相识的、带着青春滤镜的情绪碎片。即使你没在那个年代长大，也没经历过那样的校园，它依然能击中你。</p>
+      </section>
+
+      <section style="margin:0;padding:0 0 32px;background:#050505;border-top:0;">
+        <img src="https://yesu25374-code.github.io/daniel-caesar-wechat-layout/assets/img-16.jpg" alt="Mixtape 三人烟火画面" style="display:block;width:470px;height:auto;margin:0;border:0;">
+        <p style="margin:12px 32px 0;color:#d8d8d8;font-size:12px;line-height:1.8;text-align:left;">那些会一个接一个在心头掠过的东西。</p>
+      </section>
+
+      <section style="margin:0;padding:46px 42px 28px;background:#050505;border-top:1px solid #1f1f1f;">
+        <p style="margin:0;color:#f2f2f2;font-size:15px;line-height:2.05;text-align:left;">Stacey Rockford 在游戏最后把那盘混音带交出去，然后动身去往纽约。三个朋友站在原地，彼此知道这是一种终结。游戏没有给你一个煽情的收尾，只是让你坐在那里，看着画面黑去，听着最后一首歌结束。</p>
+      </section>
+
+      <section style="margin:0;padding:0 0 32px;background:#050505;border-top:0;">
+        <section style="margin:0;width:470px;overflow:hidden;background:#050505;">
+          <img src="https://yesu25374-code.github.io/daniel-caesar-wechat-layout/assets/img-17.jpg" alt="Mixtape 片尾字幕" style="display:block;width:660px;height:auto;margin:0 0 0 -95px;border:0;">
+        </section>
+        <p style="margin:12px 32px 0;color:#d8d8d8;font-size:12px;line-height:1.8;text-align:left;">片尾字幕滚过，最后一首歌还在结束。</p>
+      </section>
+
+      <section style="margin:0;padding:46px 42px 52px;background:#050505;border-top:1px solid #1f1f1f;">
+        <p style="margin:0 0 20px;color:#f2f2f2;font-size:15px;line-height:2.05;text-align:left;">我坐定，很久没动。</p>
+        <p style="margin:0;color:#f2f2f2;font-size:15px;line-height:2.05;text-align:left;">青春本身也是如此。它并不真实地属于任何一段时间、任何一个地点。它是一种质地，是一种你和世界之间还未磨合好时、有点粗糙的状态。它可以是中西部，也可以是纽北，更可以是西南内陆。就像我的十七岁，我以为它会永远在那儿，结果直到二十岁，我才恍然它的结束。</p>
+      </section>
+
+      <section style="margin:0;padding:0 0 32px;background:#050505;border-top:1px solid #1f1f1f;">
+        <img src="https://yesu25374-code.github.io/daniel-caesar-wechat-layout/assets/img-18.jpg" alt="Son of Spergy 黑胶" style="display:block;width:470px;height:auto;margin:0;border:0;">
+        <p style="margin:12px 32px 0;color:#d8d8d8;font-size:12px;line-height:1.8;text-align:left;">我在现场买的黑胶。</p>
+      </section>
+
+      <section style="margin:0;padding:46px 42px 52px;background:#050505;border-top:1px solid #1f1f1f;">
+        <p style="margin:0 0 20px;color:#f2f2f2;font-size:15px;line-height:2.05;text-align:left;">去年的全长乐评里，我写 Daniel Caesar 的音乐议题从不越过自身伤口。写他唱爱欲，唱罪孽，唱父权，写他想对话的父亲始终停在那段冬夜虫鸣、壁炉燃烧的空白里。</p>
+        <p style="margin:0 0 20px;color:#f2f2f2;font-size:15px;line-height:2.05;text-align:left;">这何尝又不是在描述我的青春。我的对抗、逃离、斡旋，在自己的世界里恣意妄为；但最希冀的日子，还是那些谈天说地、少年意气的校园夜晚。</p>
+        <p style="margin:0;color:#f2f2f2;font-size:15px;line-height:2.05;text-align:left;">2023 年那场错过，在记忆里一直封存着一种未完成的暂时。那是一段阳光灼人的年岁。</p>
+      </section>
+
+      <section style="margin:0;padding:0;background:#050505;border-top:0;">
+        <img src="https://yesu25374-code.github.io/daniel-caesar-wechat-layout/assets/img-19.jpg" alt="Search for self" style="display:block;width:470px;height:auto;margin:0;border:0;">
+      </section>
+
+      <section style="margin:0;padding:58px 42px 60px;background:#ffffff;border-top:0;">
+        <p style="margin:0 0 20px;color:#111111;font-size:15px;line-height:2.05;text-align:left;">昨晚把那封信打开了。</p>
+        <p style="margin:0 0 20px;color:#111111;font-size:15px;line-height:2.05;text-align:left;">Daniel Caesar 在台上唱着他父亲的故事，唱着他自己悬置的那些疑问，没有答案。</p>
+        <p style="margin:0 0 28px;color:#111111;font-size:15px;line-height:2.05;text-align:left;">我在台下跟着唱着，什么都没发生。</p>
+        <p style="margin:0 0 28px;padding:20px 0;border-top:1px solid #111111;border-bottom:1px solid #111111;color:#111111;font-size:15px;line-height:2.05;text-align:left;font-style:italic;">“Transform, transform, transform, transform,”<br>他唱到改变、抵抗、愤怒会散去，也唱到人最终会想念那个曾经在身边的人。</p>
+        <p style="margin:0 0 20px;color:#111111;font-size:15px;line-height:2.05;text-align:left;">我发完朋友圈，把手机扣在胸口。</p>
+        <p style="margin:0 0 34px;color:#111111;font-size:15px;line-height:2.05;text-align:left;">献给课业繁忙的十七岁。倒不如说，献给那个在按摩椅里插着耳机，还以为自己会永远记得这首歌是什么感觉的人。</p>
+        <p style="margin:0;color:#111111;font-size:15px;line-height:2.05;text-align:left;">他大概不在了。<br>也没关系。</p>
+      </section>
+
+      <section style="margin:0;padding:64px 36px 70px;background:#ffffff;border-top:1px solid #111111;text-align:center;">
+        <p style="margin:0;color:#111111;font-size:12px;line-height:2.2;letter-spacing:5px;text-transform:uppercase;text-align:center;">DANIEL CAESAR / MIXTAPE / MEMORY / OPEN LETTER</p>
+      </section>
+
+    </section>
+  </section>
